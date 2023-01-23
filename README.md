@@ -1,2 +1,2 @@
 # FpsMicrogameHernandezp4
-we are making a micro fps games 
+making a repo for the fps micro game
