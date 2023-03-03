@@ -224,6 +224,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5607574157783645069, guid: 4f81f687adc041e408e7936d175723b9,
+        type: 3}
+      propertyPath: MaxAmmo
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5607574157783645069, guid: 4f81f687adc041e408e7936d175723b9,
+        type: 3}
+      propertyPath: BulletsPerShot
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4f81f687adc041e408e7936d175723b9, type: 3}
 --- !u!4 &37726951 stripped
@@ -3237,6 +3247,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 814417836257332542, guid: 761cdc9e4e883334cbdcea062d0befa7,
+        type: 3}
+      propertyPath: JumpSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 93fbb109633e844259ea828442bda0cb, type: 3}
+    - target: {fileID: 814417836257332542, guid: 761cdc9e4e883334cbdcea062d0befa7,
+        type: 3}
+      propertyPath: LandSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 65b7d1df144c6944cab9d6686649df0b, type: 3}
+    - target: {fileID: 814417836257332542, guid: 761cdc9e4e883334cbdcea062d0befa7,
+        type: 3}
+      propertyPath: FootstepSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 44c5f76f80602024e82d3e5f3af4ee97, type: 3}
+    - target: {fileID: 814417836257332542, guid: 761cdc9e4e883334cbdcea062d0befa7,
+        type: 3}
+      propertyPath: FallDamageSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 01a15bd1861d7914abbedc36aad1f4d6, type: 3}
     - target: {fileID: 814417836257332542, guid: 761cdc9e4e883334cbdcea062d0befa7,
         type: 3}
       propertyPath: gravityDownForce
